@@ -1,0 +1,1 @@
+const my = confirm("Дивишся фільм?")
